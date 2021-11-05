@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/run/media/mktb/3481533d-5820-48d8-a250-b588f66aca6a/home/mktb/github/mktbhhh/Algorithmic-competition-entry-classic/ch3/exercises/UVa227/UVa227.cpp
+iostream
+-
+string
+-
+vector
+-
+map
+-
+

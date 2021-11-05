@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/UVa1586.dir/UVa1586/UVa1586.cpp.o -o UVa1586 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/UVa455.dir/UVa455/UVa455.cpp.o -o UVa455 

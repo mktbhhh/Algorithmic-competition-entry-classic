@@ -1,0 +1,4 @@
+/home/mktb/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /run/media/mktb/3481533d-5820-48d8-a250-b588f66aca6a/home/mktb/github/mktbhhh/Algorithmic-competition-entry-classic/ch3/exercises
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /run/media/mktb/3481533d-5820-48d8-a250-b588f66aca6a/home/mktb/github/mktbhhh/Algorithmic-competition-entry-classic/ch3/exercises/cmake-build-debug
