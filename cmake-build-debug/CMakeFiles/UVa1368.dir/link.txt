@@ -1,0 +1,3 @@
+D:\jetbrains\apps\CLion\ch-0\212.5457.51\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\UVa1368.dir/objects.a
+D:\program\MinGW\bin\ar.exe cr CMakeFiles\UVa1368.dir/objects.a @CMakeFiles\UVa1368.dir\objects1.rsp
+D:\program\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\UVa1368.dir/objects.a -Wl,--no-whole-archive -o UVa1368.exe -Wl,--out-implib,libUVa1368.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\UVa1368.dir\linklibs.rsp

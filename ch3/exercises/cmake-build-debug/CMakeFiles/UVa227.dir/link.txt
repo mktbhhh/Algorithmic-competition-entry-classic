@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/UVa227.dir/UVa227/UVa227.cpp.o -o UVa227 

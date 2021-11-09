@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/UVa227key.dir/UVa227/UVa227key.cpp.o -o UVa227key 

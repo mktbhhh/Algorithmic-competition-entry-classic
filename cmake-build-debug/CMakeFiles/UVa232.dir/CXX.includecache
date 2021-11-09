@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/github/mktbhhh/Algorithmic-competition-entry-classic/ch3/exercises/UVa232/UVa232.cpp
+cstdio
+-
+vector
+-
+cstring
+-
+

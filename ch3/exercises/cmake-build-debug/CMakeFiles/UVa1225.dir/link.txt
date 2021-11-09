@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/UVa1225.dir/UVa1225/UVa1225.cpp.o -o UVa1225 
