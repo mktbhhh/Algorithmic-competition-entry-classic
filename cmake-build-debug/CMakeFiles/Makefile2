@@ -65,6 +65,8 @@ CMAKE_BINARY_DIR = D:\github\mktbhhh\Algorithmic-competition-entry-classic\cmake
 all: CMakeFiles/UVa232.dir/all
 all: CMakeFiles/UVa1368.dir/all
 all: CMakeFiles/UVa202.dir/all
+all: CMakeFiles/UVa10340.dir/all
+all: CMakeFiles/UVa1587.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -75,6 +77,8 @@ preinstall:
 clean: CMakeFiles/UVa232.dir/clean
 clean: CMakeFiles/UVa1368.dir/clean
 clean: CMakeFiles/UVa202.dir/clean
+clean: CMakeFiles/UVa10340.dir/clean
+clean: CMakeFiles/UVa1587.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -84,7 +88,7 @@ clean: CMakeFiles/UVa202.dir/clean
 CMakeFiles/UVa232.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa232.dir\build.make CMakeFiles/UVa232.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa232.dir\build.make CMakeFiles/UVa232.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\github\mktbhhh\Algorithmic-competition-entry-classic\cmake-build-debug\CMakeFiles --progress-num=5,6 "Built target UVa232"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\github\mktbhhh\Algorithmic-competition-entry-classic\cmake-build-debug\CMakeFiles --progress-num=9,10 "Built target UVa232"
 .PHONY : CMakeFiles/UVa232.dir/all
 
 # Build rule for subdir invocation for target.
@@ -110,7 +114,7 @@ CMakeFiles/UVa232.dir/clean:
 CMakeFiles/UVa1368.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa1368.dir\build.make CMakeFiles/UVa1368.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa1368.dir\build.make CMakeFiles/UVa1368.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\github\mktbhhh\Algorithmic-competition-entry-classic\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target UVa1368"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\github\mktbhhh\Algorithmic-competition-entry-classic\cmake-build-debug\CMakeFiles --progress-num=3,4 "Built target UVa1368"
 .PHONY : CMakeFiles/UVa1368.dir/all
 
 # Build rule for subdir invocation for target.
@@ -136,7 +140,7 @@ CMakeFiles/UVa1368.dir/clean:
 CMakeFiles/UVa202.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa202.dir\build.make CMakeFiles/UVa202.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa202.dir\build.make CMakeFiles/UVa202.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\github\mktbhhh\Algorithmic-competition-entry-classic\cmake-build-debug\CMakeFiles --progress-num=3,4 "Built target UVa202"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\github\mktbhhh\Algorithmic-competition-entry-classic\cmake-build-debug\CMakeFiles --progress-num=7,8 "Built target UVa202"
 .PHONY : CMakeFiles/UVa202.dir/all
 
 # Build rule for subdir invocation for target.
@@ -154,6 +158,58 @@ UVa202: CMakeFiles/UVa202.dir/rule
 CMakeFiles/UVa202.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa202.dir\build.make CMakeFiles/UVa202.dir/clean
 .PHONY : CMakeFiles/UVa202.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/UVa10340.dir
+
+# All Build rule for target.
+CMakeFiles/UVa10340.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa10340.dir\build.make CMakeFiles/UVa10340.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa10340.dir\build.make CMakeFiles/UVa10340.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\github\mktbhhh\Algorithmic-competition-entry-classic\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target UVa10340"
+.PHONY : CMakeFiles/UVa10340.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/UVa10340.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\github\mktbhhh\Algorithmic-competition-entry-classic\cmake-build-debug\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/UVa10340.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\github\mktbhhh\Algorithmic-competition-entry-classic\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/UVa10340.dir/rule
+
+# Convenience name for target.
+UVa10340: CMakeFiles/UVa10340.dir/rule
+.PHONY : UVa10340
+
+# clean rule for target.
+CMakeFiles/UVa10340.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa10340.dir\build.make CMakeFiles/UVa10340.dir/clean
+.PHONY : CMakeFiles/UVa10340.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/UVa1587.dir
+
+# All Build rule for target.
+CMakeFiles/UVa1587.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa1587.dir\build.make CMakeFiles/UVa1587.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa1587.dir\build.make CMakeFiles/UVa1587.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\github\mktbhhh\Algorithmic-competition-entry-classic\cmake-build-debug\CMakeFiles --progress-num=5,6 "Built target UVa1587"
+.PHONY : CMakeFiles/UVa1587.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/UVa1587.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\github\mktbhhh\Algorithmic-competition-entry-classic\cmake-build-debug\CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/UVa1587.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\github\mktbhhh\Algorithmic-competition-entry-classic\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/UVa1587.dir/rule
+
+# Convenience name for target.
+UVa1587: CMakeFiles/UVa1587.dir/rule
+.PHONY : UVa1587
+
+# clean rule for target.
+CMakeFiles/UVa1587.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa1587.dir\build.make CMakeFiles/UVa1587.dir/clean
+.PHONY : CMakeFiles/UVa1587.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

@@ -54,4 +54,6 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/UVa232.dir/DependInfo.cmake"
   "CMakeFiles/UVa1368.dir/DependInfo.cmake"
   "CMakeFiles/UVa202.dir/DependInfo.cmake"
+  "CMakeFiles/UVa10340.dir/DependInfo.cmake"
+  "CMakeFiles/UVa1587.dir/DependInfo.cmake"
   )

@@ -64,16 +64,6 @@ CMAKE_BINARY_DIR = D:\github\mktbhhh\Algorithmic-competition-entry-classic\cmake
 #=============================================================================
 # Targets provided globally by CMake.
 
-# Special rule for the target edit_cache
-edit_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	D:\jetbrains\apps\CLion\ch-0\212.5457.51\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available."
-.PHONY : edit_cache
-
-# Special rule for the target edit_cache
-edit_cache/fast: edit_cache
-.PHONY : edit_cache/fast
-
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
@@ -83,6 +73,16 @@ rebuild_cache:
 # Special rule for the target rebuild_cache
 rebuild_cache/fast: rebuild_cache
 .PHONY : rebuild_cache/fast
+
+# Special rule for the target edit_cache
+edit_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
+	D:\jetbrains\apps\CLion\ch-0\212.5457.51\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available."
+.PHONY : edit_cache
+
+# Special rule for the target edit_cache
+edit_cache/fast: edit_cache
+.PHONY : edit_cache/fast
 
 # The main all target
 all: cmake_check_build_system
@@ -154,6 +154,56 @@ UVa202/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa202.dir\build.make CMakeFiles/UVa202.dir/build
 .PHONY : UVa202/fast
 
+#=============================================================================
+# Target rules for targets named UVa10340
+
+# Build rule for target.
+UVa10340: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 UVa10340
+.PHONY : UVa10340
+
+# fast build rule for target.
+UVa10340/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa10340.dir\build.make CMakeFiles/UVa10340.dir/build
+.PHONY : UVa10340/fast
+
+#=============================================================================
+# Target rules for targets named UVa1587
+
+# Build rule for target.
+UVa1587: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 UVa1587
+.PHONY : UVa1587
+
+# fast build rule for target.
+UVa1587/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa1587.dir\build.make CMakeFiles/UVa1587.dir/build
+.PHONY : UVa1587/fast
+
+ch3/exercises/UVa10340/UVa10340.obj: ch3/exercises/UVa10340/UVa10340.cpp.obj
+.PHONY : ch3/exercises/UVa10340/UVa10340.obj
+
+# target to build an object file
+ch3/exercises/UVa10340/UVa10340.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa10340.dir\build.make CMakeFiles/UVa10340.dir/ch3/exercises/UVa10340/UVa10340.cpp.obj
+.PHONY : ch3/exercises/UVa10340/UVa10340.cpp.obj
+
+ch3/exercises/UVa10340/UVa10340.i: ch3/exercises/UVa10340/UVa10340.cpp.i
+.PHONY : ch3/exercises/UVa10340/UVa10340.i
+
+# target to preprocess a source file
+ch3/exercises/UVa10340/UVa10340.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa10340.dir\build.make CMakeFiles/UVa10340.dir/ch3/exercises/UVa10340/UVa10340.cpp.i
+.PHONY : ch3/exercises/UVa10340/UVa10340.cpp.i
+
+ch3/exercises/UVa10340/UVa10340.s: ch3/exercises/UVa10340/UVa10340.cpp.s
+.PHONY : ch3/exercises/UVa10340/UVa10340.s
+
+# target to generate assembly for a file
+ch3/exercises/UVa10340/UVa10340.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa10340.dir\build.make CMakeFiles/UVa10340.dir/ch3/exercises/UVa10340/UVa10340.cpp.s
+.PHONY : ch3/exercises/UVa10340/UVa10340.cpp.s
+
 ch3/exercises/UVa1368/UVa1368.obj: ch3/exercises/UVa1368/UVa1368.cpp.obj
 .PHONY : ch3/exercises/UVa1368/UVa1368.obj
 
@@ -177,6 +227,30 @@ ch3/exercises/UVa1368/UVa1368.s: ch3/exercises/UVa1368/UVa1368.cpp.s
 ch3/exercises/UVa1368/UVa1368.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa1368.dir\build.make CMakeFiles/UVa1368.dir/ch3/exercises/UVa1368/UVa1368.cpp.s
 .PHONY : ch3/exercises/UVa1368/UVa1368.cpp.s
+
+ch3/exercises/UVa1587/UVa1587.obj: ch3/exercises/UVa1587/UVa1587.cpp.obj
+.PHONY : ch3/exercises/UVa1587/UVa1587.obj
+
+# target to build an object file
+ch3/exercises/UVa1587/UVa1587.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa1587.dir\build.make CMakeFiles/UVa1587.dir/ch3/exercises/UVa1587/UVa1587.cpp.obj
+.PHONY : ch3/exercises/UVa1587/UVa1587.cpp.obj
+
+ch3/exercises/UVa1587/UVa1587.i: ch3/exercises/UVa1587/UVa1587.cpp.i
+.PHONY : ch3/exercises/UVa1587/UVa1587.i
+
+# target to preprocess a source file
+ch3/exercises/UVa1587/UVa1587.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa1587.dir\build.make CMakeFiles/UVa1587.dir/ch3/exercises/UVa1587/UVa1587.cpp.i
+.PHONY : ch3/exercises/UVa1587/UVa1587.cpp.i
+
+ch3/exercises/UVa1587/UVa1587.s: ch3/exercises/UVa1587/UVa1587.cpp.s
+.PHONY : ch3/exercises/UVa1587/UVa1587.s
+
+# target to generate assembly for a file
+ch3/exercises/UVa1587/UVa1587.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa1587.dir\build.make CMakeFiles/UVa1587.dir/ch3/exercises/UVa1587/UVa1587.cpp.s
+.PHONY : ch3/exercises/UVa1587/UVa1587.cpp.s
 
 ch3/exercises/UVa202/UVa202.obj: ch3/exercises/UVa202/UVa202.cpp.obj
 .PHONY : ch3/exercises/UVa202/UVa202.obj
@@ -234,12 +308,20 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... UVa10340
 	@echo ... UVa1368
+	@echo ... UVa1587
 	@echo ... UVa202
 	@echo ... UVa232
+	@echo ... ch3/exercises/UVa10340/UVa10340.obj
+	@echo ... ch3/exercises/UVa10340/UVa10340.i
+	@echo ... ch3/exercises/UVa10340/UVa10340.s
 	@echo ... ch3/exercises/UVa1368/UVa1368.obj
 	@echo ... ch3/exercises/UVa1368/UVa1368.i
 	@echo ... ch3/exercises/UVa1368/UVa1368.s
+	@echo ... ch3/exercises/UVa1587/UVa1587.obj
+	@echo ... ch3/exercises/UVa1587/UVa1587.i
+	@echo ... ch3/exercises/UVa1587/UVa1587.s
 	@echo ... ch3/exercises/UVa202/UVa202.obj
 	@echo ... ch3/exercises/UVa202/UVa202.i
 	@echo ... ch3/exercises/UVa202/UVa202.s
