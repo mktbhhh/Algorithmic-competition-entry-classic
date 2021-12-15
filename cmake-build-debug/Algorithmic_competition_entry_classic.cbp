@@ -59,6 +59,90 @@
 					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="UVa512b">
+				<Option output="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/UVa512b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 UVa512b"/>
+					<CompileFile command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UVa512b/fast">
+				<Option output="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/UVa512b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 UVa512b/fast"/>
+					<CompileFile command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UVa1588">
+				<Option output="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/UVa1588.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 UVa1588"/>
+					<CompileFile command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UVa1588/fast">
+				<Option output="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/UVa1588.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 UVa1588/fast"/>
+					<CompileFile command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="UVa1368">
 				<Option output="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/UVa1368.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug"/>
@@ -143,11 +227,43 @@
 					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="rebuild_cache">
+			<Target title="UVa1339">
+				<Option output="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/UVa1339.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug"/>
-				<Option type="4"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
 				<MakeCommands>
-					<Build command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<Build command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 UVa1339"/>
+					<CompileFile command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UVa1339/fast">
+				<Option output="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/UVa1339.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 UVa1339/fast"/>
 					<CompileFile command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -195,6 +311,90 @@
 					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="UVa133">
+				<Option output="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/UVa133.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 UVa133"/>
+					<CompileFile command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UVa133/fast">
+				<Option output="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/UVa133.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 UVa133/fast"/>
+					<CompileFile command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UVa11809">
+				<Option output="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/UVa11809.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 UVa11809"/>
+					<CompileFile command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UVa11809/fast">
+				<Option output="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/UVa11809.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 UVa11809/fast"/>
+					<CompileFile command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="UVa1587">
 				<Option output="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/UVa1587.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug"/>
@@ -237,6 +437,174 @@
 					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="UVa489">
+				<Option output="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/UVa489.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 UVa489"/>
+					<CompileFile command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UVa489/fast">
+				<Option output="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/UVa489.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 UVa489/fast"/>
+					<CompileFile command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UVa213">
+				<Option output="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/UVa213.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 UVa213"/>
+					<CompileFile command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UVa213/fast">
+				<Option output="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/UVa213.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 UVa213/fast"/>
+					<CompileFile command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UVa512">
+				<Option output="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/UVa512.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 UVa512"/>
+					<CompileFile command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UVa512/fast">
+				<Option output="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/UVa512.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 UVa512/fast"/>
+					<CompileFile command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UVa12412">
+				<Option output="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/UVa12412.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 UVa12412"/>
+					<CompileFile command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UVa12412/fast">
+				<Option output="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/UVa12412.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\program\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 UVa12412/fast"/>
+					<CompileFile command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug"/>
 				<Option type="4"/>
@@ -247,9 +615,22 @@
 					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/program/MinGW/bin/mingw32-make.exe -f &quot;D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 		</Build>
 		<Unit filename="D:/github/mktbhhh/Algorithmic-competition-entry-classic/ch3/exercises/UVa10340/UVa10340.cpp">
 			<Option target="UVa10340"/>
+		</Unit>
+		<Unit filename="D:/github/mktbhhh/Algorithmic-competition-entry-classic/ch3/exercises/UVa11809/UVa11809.cpp">
+			<Option target="UVa11809"/>
 		</Unit>
 		<Unit filename="D:/github/mktbhhh/Algorithmic-competition-entry-classic/ch3/exercises/UVa1368/UVa1368.cpp">
 			<Option target="UVa1368"/>
@@ -257,11 +638,35 @@
 		<Unit filename="D:/github/mktbhhh/Algorithmic-competition-entry-classic/ch3/exercises/UVa1587/UVa1587.cpp">
 			<Option target="UVa1587"/>
 		</Unit>
+		<Unit filename="D:/github/mktbhhh/Algorithmic-competition-entry-classic/ch3/exercises/UVa1588/UVa1588.cpp">
+			<Option target="UVa1588"/>
+		</Unit>
 		<Unit filename="D:/github/mktbhhh/Algorithmic-competition-entry-classic/ch3/exercises/UVa202/UVa202.cpp">
 			<Option target="UVa202"/>
 		</Unit>
 		<Unit filename="D:/github/mktbhhh/Algorithmic-competition-entry-classic/ch3/exercises/UVa232/UVa232.cpp">
 			<Option target="UVa232"/>
+		</Unit>
+		<Unit filename="D:/github/mktbhhh/Algorithmic-competition-entry-classic/ch4/examples/UVa12412/UVa12412.cpp">
+			<Option target="UVa12412"/>
+		</Unit>
+		<Unit filename="D:/github/mktbhhh/Algorithmic-competition-entry-classic/ch4/examples/UVa133/UVa133.cpp">
+			<Option target="UVa133"/>
+		</Unit>
+		<Unit filename="D:/github/mktbhhh/Algorithmic-competition-entry-classic/ch4/examples/UVa1339/UVa1339.cpp">
+			<Option target="UVa1339"/>
+		</Unit>
+		<Unit filename="D:/github/mktbhhh/Algorithmic-competition-entry-classic/ch4/examples/UVa213/UVa213.cpp">
+			<Option target="UVa213"/>
+		</Unit>
+		<Unit filename="D:/github/mktbhhh/Algorithmic-competition-entry-classic/ch4/examples/UVa489/UVa489.cpp">
+			<Option target="UVa489"/>
+		</Unit>
+		<Unit filename="D:/github/mktbhhh/Algorithmic-competition-entry-classic/ch4/examples/UVa512/UVa512.cpp">
+			<Option target="UVa512"/>
+		</Unit>
+		<Unit filename="D:/github/mktbhhh/Algorithmic-competition-entry-classic/ch4/examples/UVa512/UVa512b.cpp">
+			<Option target="UVa512b"/>
 		</Unit>
 		<Unit filename="D:/github/mktbhhh/Algorithmic-competition-entry-classic/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

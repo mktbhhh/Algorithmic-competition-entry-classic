@@ -1,7 +1,16 @@
 D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/CMakeFiles/UVa232.dir
+D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/CMakeFiles/UVa512b.dir
+D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/CMakeFiles/UVa1588.dir
 D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/CMakeFiles/UVa1368.dir
 D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/CMakeFiles/UVa202.dir
-D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/CMakeFiles/UVa1339.dir
 D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/CMakeFiles/UVa10340.dir
+D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/CMakeFiles/UVa133.dir
+D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/CMakeFiles/UVa11809.dir
 D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/CMakeFiles/UVa1587.dir
+D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/CMakeFiles/UVa489.dir
+D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/CMakeFiles/UVa213.dir
+D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/CMakeFiles/UVa512.dir
+D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/CMakeFiles/UVa12412.dir
 D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
