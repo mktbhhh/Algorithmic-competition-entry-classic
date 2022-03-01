@@ -17,4 +17,4 @@ add_executable(UVa213 ch4/examples/UVa213/UVa213.cpp)
 add_executable(UVa512 ch4/examples/UVa512/UVa512.cpp)
 add_executable(UVa512b ch4/examples/UVa512/UVa512b.cpp)
 add_executable(UVa12412 ch4/examples/UVa12412/UVa12412.cpp)
-
+add_executable(UVa1589 ch4/exercises/UVa1589/Uva1589.cpp)

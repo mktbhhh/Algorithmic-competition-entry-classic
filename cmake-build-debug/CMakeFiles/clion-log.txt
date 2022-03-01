@@ -1,4 +1,4 @@
-D:\jetbrains\apps\CLion\ch-0\213.5744.254\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\github\mktbhhh\Algorithmic-competition-entry-classic
+D:\jetbrains\apps\CLion\ch-0\213.6777.58\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\github\mktbhhh\Algorithmic-competition-entry-classic
 -- Configuring done
 -- Generating done
 -- Build files have been written to: D:/github/mktbhhh/Algorithmic-competition-entry-classic/cmake-build-debug

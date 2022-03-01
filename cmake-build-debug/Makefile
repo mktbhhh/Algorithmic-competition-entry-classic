@@ -47,10 +47,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = D:\jetbrains\apps\CLion\ch-0\213.5744.254\bin\cmake\win\bin\cmake.exe
+CMAKE_COMMAND = D:\jetbrains\apps\CLion\ch-0\213.6777.58\bin\cmake\win\bin\cmake.exe
 
 # The command to remove a file.
-RM = D:\jetbrains\apps\CLion\ch-0\213.5744.254\bin\cmake\win\bin\cmake.exe -E rm -f
+RM = D:\jetbrains\apps\CLion\ch-0\213.6777.58\bin\cmake\win\bin\cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -67,7 +67,7 @@ CMAKE_BINARY_DIR = D:\github\mktbhhh\Algorithmic-competition-entry-classic\cmake
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	D:\jetbrains\apps\CLion\ch-0\213.5744.254\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available."
+	D:\jetbrains\apps\CLion\ch-0\213.6777.58\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -77,7 +77,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	D:\jetbrains\apps\CLion\ch-0\213.5744.254\bin\cmake\win\bin\cmake.exe --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	D:\jetbrains\apps\CLion\ch-0\213.6777.58\bin\cmake\win\bin\cmake.exe --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -296,6 +296,19 @@ UVa12412: cmake_check_build_system
 UVa12412/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa12412.dir\build.make CMakeFiles/UVa12412.dir/build
 .PHONY : UVa12412/fast
+
+#=============================================================================
+# Target rules for targets named UVa1589
+
+# Build rule for target.
+UVa1589: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 UVa1589
+.PHONY : UVa1589
+
+# fast build rule for target.
+UVa1589/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa1589.dir\build.make CMakeFiles/UVa1589.dir/build
+.PHONY : UVa1589/fast
 
 ch3/exercises/UVa10340/UVa10340.obj: ch3/exercises/UVa10340/UVa10340.cpp.obj
 .PHONY : ch3/exercises/UVa10340/UVa10340.obj
@@ -633,6 +646,30 @@ ch4/examples/UVa512/UVa512b.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa512b.dir\build.make CMakeFiles/UVa512b.dir/ch4/examples/UVa512/UVa512b.cpp.s
 .PHONY : ch4/examples/UVa512/UVa512b.cpp.s
 
+ch4/exercises/UVa1589/UVa1589.obj: ch4/exercises/UVa1589/UVa1589.cpp.obj
+.PHONY : ch4/exercises/UVa1589/UVa1589.obj
+
+# target to build an object file
+ch4/exercises/UVa1589/UVa1589.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa1589.dir\build.make CMakeFiles/UVa1589.dir/ch4/exercises/UVa1589/UVa1589.cpp.obj
+.PHONY : ch4/exercises/UVa1589/UVa1589.cpp.obj
+
+ch4/exercises/UVa1589/UVa1589.i: ch4/exercises/UVa1589/UVa1589.cpp.i
+.PHONY : ch4/exercises/UVa1589/UVa1589.i
+
+# target to preprocess a source file
+ch4/exercises/UVa1589/UVa1589.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa1589.dir\build.make CMakeFiles/UVa1589.dir/ch4/exercises/UVa1589/UVa1589.cpp.i
+.PHONY : ch4/exercises/UVa1589/UVa1589.cpp.i
+
+ch4/exercises/UVa1589/UVa1589.s: ch4/exercises/UVa1589/UVa1589.cpp.s
+.PHONY : ch4/exercises/UVa1589/UVa1589.s
+
+# target to generate assembly for a file
+ch4/exercises/UVa1589/UVa1589.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\UVa1589.dir\build.make CMakeFiles/UVa1589.dir/ch4/exercises/UVa1589/UVa1589.cpp.s
+.PHONY : ch4/exercises/UVa1589/UVa1589.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -649,6 +686,7 @@ help:
 	@echo ... UVa1368
 	@echo ... UVa1587
 	@echo ... UVa1588
+	@echo ... UVa1589
 	@echo ... UVa202
 	@echo ... UVa213
 	@echo ... UVa232
@@ -697,6 +735,9 @@ help:
 	@echo ... ch4/examples/UVa512/UVa512b.obj
 	@echo ... ch4/examples/UVa512/UVa512b.i
 	@echo ... ch4/examples/UVa512/UVa512b.s
+	@echo ... ch4/exercises/UVa1589/UVa1589.obj
+	@echo ... ch4/exercises/UVa1589/UVa1589.i
+	@echo ... ch4/exercises/UVa1589/UVa1589.s
 .PHONY : help
 
 
